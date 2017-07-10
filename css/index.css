@@ -1,0 +1,12 @@
+.box1{width:20px;height:20px;background:linear-gradient(to bottom,red 50%,transparent 50%);margin:30px auto;background-size:5px;cursor:pointer;}
+.box2{width:20px;height:20px;background:linear-gradient(to bottom,red 50%,transparent 50%);margin:30px auto;background-size:5px;outline:1px solid red;outline-offset:4px;cursor:pointer;}
+.box3{width:15px;height:15px;background:red;border-radius:100%;box-shadow:0px 0px 0px 5px #FFF,0px 0px 0px 10px red;margin:30px auto;cursor:pointer;}
+.box4{width:0px;color:red;border:3px solid;outline:6px dotted;outline-offset:6px;margin:40px auto;cursor:pointer;}
+.box5{width:0;color:red;border:11px solid transparent;border-top:11px solid;box-shadow:0px -17px 0 -4px;margin:30px auto;cursor:pointer;}
+.box6{width:1px;height:8px;color:red;border:11px solid transparent;border-top:11px solid;box-shadow: 0px -17px 0 -4px;background:linear-gradient(to bottom,#FFF 50%,red 50%) repeat-x;margin:15px auto;cursor:pointer;}
+.box7{width:0;height:10px;background-color:red;border:10px solid transparent;border-bottom:10px solid #FFF;margin:15px auto;cursor:pointer;}
+.box8{width:30px;height:30px;border-radius:100%;background:linear-gradient(to right,#CCC 50%,red 50%);margin:15px auto;cursor:pointer;}
+.box9{width:20px;height:20px;border-radius:100%;border:2px solid red;background:linear-gradient(to right,#FFF 45%,red 45%,red 55%,#FFF 55%);transform:rotate(40deg);margin:20px auto;cursor:pointer;}
+.box10{width:15px;border-top:20px solid transparent;border-right:10px solid red;border-bottom-right-radius:100%;margin:20px auto;cursor:pointer;}		
+.box11{width:15px;border:15px solid transparent;border-bottom:15px solid red;margin:20px auto;cursor:pointer;}
+.box12{width:0px;height:0px;border:10px solid transparent;border-left:10px solid red;-webkit-box-reflect:left 5px;box-reflect:left 5px;margin:20px auto;cursor:pointer;}
